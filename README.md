@@ -3,7 +3,7 @@ Md5 Cracker (Brute-Force)
 =========================
 
 
-Wordlisk kullanmadan, anlık olarak şifre oluşturup; girilen hash değeri ile karşılaştırıp sonucu size gösterir.
+Wordlist kullanmadan, anlık olarak şifre oluşturup; girilen hash değeri ile karşılaştırıp sonucu size gösterir.
 Farklı işletim sistemleri ve işlemcilerde yapılan testlerde saniyede ortalama 290.215 kontrol yapabilmektedir.
 
 * md5cracker.exe normal kullanıcılar içindir. Uygulamayı çalıştırıp Md5 Hash'inizi girerek işlemi başlatabilirsiniz.
